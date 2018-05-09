@@ -1,0 +1,10 @@
+{
+    "name": "Mantas/11",
+    "description": "mantjakas@gmail.com",
+    "require": {},
+    "autoload": {
+        "psr-4":{
+            "Models\\" : "src"
+        }
+    }
+}
